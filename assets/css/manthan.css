@@ -596,6 +596,7 @@ pre code {
           flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  margin-top: 15px;
 }
 
 .no-gutters {
@@ -11126,9 +11127,10 @@ p {
 .service-card {
   position: relative;
   min-height: 230px;
-  border: 1px solid #dee2e6;
+  border: 5px solid #dee2e6;
   overflow: hidden;
   border-radius: 3px;
+  border-radius: 20%;
 }
 
 .service-card .body {
@@ -12224,3 +12226,4 @@ pre .code {
 .section-lg {
   padding: 100px 0 !important;
 }
+
