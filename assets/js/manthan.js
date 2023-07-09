@@ -41,3 +41,4 @@ function downloadResume() {
   downloadLink.click();
   document.body.removeChild(downloadLink);
 }
+
